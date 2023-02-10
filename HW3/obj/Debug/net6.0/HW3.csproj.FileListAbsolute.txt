@@ -1,0 +1,15 @@
+F:\GB\HomeworkSharpGB\HW3\obj\Debug\net6.0\HW3.csproj.AssemblyReference.cache
+F:\GB\HomeworkSharpGB\HW3\obj\Debug\net6.0\HW3.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\HomeworkSharpGB\HW3\obj\Debug\net6.0\HW3.AssemblyInfoInputs.cache
+F:\GB\HomeworkSharpGB\HW3\obj\Debug\net6.0\HW3.AssemblyInfo.cs
+F:\GB\HomeworkSharpGB\HW3\obj\Debug\net6.0\HW3.csproj.CoreCompileInputs.cache
+F:\GB\HomeworkSharpGB\HW3\bin\Debug\net6.0\HW3.exe
+F:\GB\HomeworkSharpGB\HW3\bin\Debug\net6.0\HW3.deps.json
+F:\GB\HomeworkSharpGB\HW3\bin\Debug\net6.0\HW3.runtimeconfig.json
+F:\GB\HomeworkSharpGB\HW3\bin\Debug\net6.0\HW3.dll
+F:\GB\HomeworkSharpGB\HW3\bin\Debug\net6.0\HW3.pdb
+F:\GB\HomeworkSharpGB\HW3\obj\Debug\net6.0\HW3.dll
+F:\GB\HomeworkSharpGB\HW3\obj\Debug\net6.0\refint\HW3.dll
+F:\GB\HomeworkSharpGB\HW3\obj\Debug\net6.0\HW3.pdb
+F:\GB\HomeworkSharpGB\HW3\obj\Debug\net6.0\HW3.genruntimeconfig.cache
+F:\GB\HomeworkSharpGB\HW3\obj\Debug\net6.0\ref\HW3.dll
